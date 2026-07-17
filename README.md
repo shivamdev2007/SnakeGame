@@ -18,9 +18,4 @@ A classic Snake Game built using HTML, CSS, and JavaScript.
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
-## Future Improvements
-- Self-collision detection
-- High score
-- Increasing difficulty
-- Sound effects
-- Mobile controls
+
